@@ -6,3 +6,6 @@ Here is the drive folder where to see the project video
 
 ## Documentation
 Project documentation is avaliable both in pdf and docx
+
+## Presentation
+Project presentation is avaliable in ppt, pdf and key(key will be used at the exam because it contains the animations and the correct fonts, however it could not be opened on windows).
